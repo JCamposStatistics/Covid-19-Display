@@ -1,2 +1,2 @@
 # Covid-19-Display
-In this project we will observe the growth of Covid 19
+In this repository we will observe the growth of Covid 19

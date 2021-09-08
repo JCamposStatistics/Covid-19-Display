@@ -1,2 +1,2 @@
-# Mi portafolio
-Aquí  verás los proyectos que subiré, son de Data Science, más especificamente en ML y DL
+# Covid 
+Aquí verás  todo lo que subiré respecto al Covid 19

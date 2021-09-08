@@ -1,2 +1,1 @@
-# Covid-19-Display
-In this repository we will observe the growth of Covid 19
+# AmazonBestSeller2021june
